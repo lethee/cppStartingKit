@@ -103,8 +103,6 @@
 			<key>patterns</key>
 			<array>
 				<dict>
-					<key>include</key>
-					<string>#comments</string>
 				</dict>
 			</array>
 		</dict>
@@ -142,8 +140,6 @@
 			<key>patterns</key>
 			<array>
 				<dict>
-					<key>include</key>
-					<string>#comments</string>
 				</dict>
 			</array>
 		</dict>
